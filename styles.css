@@ -1,0 +1,21 @@
+
+/*Example of element selectors below*/
+html{background:#E6D7FF
+}
+
+img{height:200px;width:300px}
+h1{text-align:center}
+h3{font-size:2rem;}
+h2{font-weight:500}
+
+/*Example of a class selector below*/
+.pink_text{color:pink}
+
+/*Example of ID selector */
+#ikiru{color:white}
+
+
+/*Example of attribute selector */
+p[draggable]{color: blue}
+
+/* universal selector is *{color:red} */
